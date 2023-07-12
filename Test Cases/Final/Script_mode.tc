@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Script_mode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b510aa88-51ba-42da-a55b-961b9c4f1d6e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c1a4fb4b-4a30-4be4-863e-1a984e86546c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

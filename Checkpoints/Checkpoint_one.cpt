@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_one</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/logindata</source-url>
+   </source-info>
+   <taken-date>2023-07-10T21:09:03.244</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "admin@yourstore.com",
+      "checked": false
+    },
+    {
+      "value": " RAIVpflpDOg\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "123@def.com",
+      "checked": false
+    },
+    {
+      "value": "RAIVpflpDOg\u003d",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
